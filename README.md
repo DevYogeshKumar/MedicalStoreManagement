@@ -20,7 +20,7 @@
   ### Testing using (Karma/Jasmine/Appium)
   
 ## 4. Mobile App
-  ### React Native (latest)
+  ### React Native (latest) with Expo Client
  
 ## 5. Source Control
   ### Github
