@@ -4,10 +4,10 @@
 
 # =====[Technologies Used]==== #
 
-## Architecture
+## 1. Architecture
   ### Microservices + Clean Architecture + Repository + UoW
 
-## Backend
+## 2. Backend
   ### .Net Core 3.x WebAPI
   ### C# (latest)
   ### EF Core 6.x
@@ -15,21 +15,21 @@
   ### AutoMapper
   ### Unity Testing using NUnit/MSTest
 
-## Web App
+## 3. Web App
   ### Angular (latest)
   ### Testing using (Karma/Jasmine/Appium)
   
-## Mobile App
+## 4. Mobile App
   ### React Native (latest)
  
-## Source Control
+## 5. Source Control
   ### Github
   
-## Push Notification
+## 6. Push Notification
   ### Firebase
   
-## Blob Storage
+## 7. Blob Storage
   ### AWS S3
   
-## Real Time Communication
+## 8. Real Time Communication
   ### Redis + SignalR
