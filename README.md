@@ -14,6 +14,8 @@
   ### DI using IoC (built-in/unity)
   ### AutoMapper
   ### Unity Testing using NUnit/MSTest
+  ### Identity Server 4
+  ### Aspnet Identity
 
 ## 3. Web App
   ### Angular (latest)
