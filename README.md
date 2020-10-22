@@ -1,35 +1,35 @@
 # MedicalStoreManagement
-A CMR based application for managing pharmacies online.
+  ## A CMR based application for managing pharmacies online.
 
 
-# ================[Technologies Used]============== #
+# =====[Technologies Used]==== #
 
 ## Architecture
-  # Microservices + Clean Architecture + Repository + UoW
+  ### Microservices + Clean Architecture + Repository + UoW
 
 ## Backend
-  # .Net Core 3.x WebAPI
-  # C# (latest)
-  # EF Core 6.x
-  # DI using IoC (built-in/unity)
-  # AutoMapper
-  # Unity Testing using NUnit/MSTest
+  ### .Net Core 3.x WebAPI
+  ### C# (latest)
+  ### EF Core 6.x
+  ### DI using IoC (built-in/unity)
+  ### AutoMapper
+  ### Unity Testing using NUnit/MSTest
 
 ## Web App
-  # Angular (latest)
-  # Testing using (Karma/Jasmine/Appium)
+  ### Angular (latest)
+  ### Testing using (Karma/Jasmine/Appium)
   
 ## Mobile App
-  # React Native (latest)
+  ### React Native (latest)
  
 ## Source Control
-  # Github
+  ### Github
   
 ## Push Notification
-  # Firebase
+  ### Firebase
   
 ## Blob Storage
-  # AWS S3
+  ### AWS S3
   
 ## Real Time Communication
-  # Redis + SignalR
+  ### Redis + SignalR
